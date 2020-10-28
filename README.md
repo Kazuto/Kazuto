@@ -20,6 +20,13 @@
   I'm currently learning react • Goal: Contributing more to open source projects • Fun Fact: I play guitar and bass 
 </p>
 
+<p align=center>  
+  <a href="https://open.spotify.com/user/kazutode">
+  <img src="https://novatorem.kazuto.vercel.app//api/spotify">
+</a>
+</p>
+
+
 <h6 align=center>Languages and Tools</h6>
 <p align=center>  
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,10 +39,6 @@
   <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-<a href="https://open.spotify.com/user/kazutode">
-  <img width="400px" src="https://novatorem.kazuto.vercel.app//api/spotify">
-</a>
-
 ###### Recent GitHub Activity
 <!--START_SECTION:activity-->
   1. 💪 Opened PR [#636](https://github.com/mongo-express/mongo-express/pull/636) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
@@ -43,9 +46,9 @@
   3. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
   4. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
   5. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-  <!--END_SECTION:activity--> | <img width="400px" src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&hide_title=true">
+  <!--END_SECTION:activity--> 
 
 <h6 align=center>My Github stats</h6>
 <p align=center>
-  
+  <img src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&hide_title=true">
 </p>
