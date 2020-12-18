@@ -49,9 +49,9 @@
 <img align=right src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#636](https://github.com/mongo-express/mongo-express/pull/636) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-2. ❗️ Closed issue [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-3. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
+1. 🗣 Commented on [#816](https://github.com/nuxt-community/auth-module/issues/816) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
+2. 💪 Opened PR [#636](https://github.com/mongo-express/mongo-express/pull/636) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
+3. ❗️ Closed issue [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
 4. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
 5. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
 <!--END_SECTION:activity--> 
