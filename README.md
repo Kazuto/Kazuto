@@ -44,11 +44,11 @@
 <img align=right src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#816](https://github.com/nuxt-community/auth-module/issues/816) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
-2. 💪 Opened PR [#636](https://github.com/mongo-express/mongo-express/pull/636) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-3. ❗️ Closed issue [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-4. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
-5. 🗣 Commented on [#634](https://github.com/mongo-express/mongo-express/issues/634) in [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
+1. ❗️ Opened issue [#2639](https://github.com/laravel/ideas/issues/2639) in [laravel/ideas](https://github.com/laravel/ideas)
+2. ❗️ Opened issue [#898](https://github.com/phpmd/phpmd/issues/898) in [phpmd/phpmd](https://github.com/phpmd/phpmd)
+3. 🗣 Commented on [#7146](https://github.com/mekanism/Mekanism/issues/7146) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+4. ❗️ Closed issue [#7146](https://github.com/mekanism/Mekanism/issues/7146) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+5. ❗️ Opened issue [#7146](https://github.com/mekanism/Mekanism/issues/7146) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
 <!--END_SECTION:activity--> 
 
 <br>
