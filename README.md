@@ -7,7 +7,7 @@
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKazuto&screen_name=dev_kazuto" target="_blank">
     <img src="https://img.shields.io/twitter/follow/dev_kazuto?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=00acee">
   </a>
-    <a href="https://linkedin.com/in/kai-hillemacher" target="_blank">
+    <a href="https://linkedin.com/in/kai-mayer" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://t.me/dev_kazuto" target="_blank">
