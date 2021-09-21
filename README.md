@@ -27,17 +27,20 @@
 
 <h6 align=center>Languages and Tools</h6>
 <p align=center>  
-  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img alt="Nuxt.js" width="32px" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4" />
-  <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img alt="HTML5" width="32px" src="icons/html5.svg" />
+  <img alt="CSS3" width="32px" src="icons/css3.svg" />
+  <img alt="SASS" width="32px" src="icons/sass.svg" />
+  <img alt="JavaScript" width="32px" src="icons/javascript.svg" />
+  <img alt="Vue.js" width="32px" src="icons/vuejs.svg" />
+  <img alt="Nuxt.js" width="32px" src="icons/nuxtjs.svg" />
+  <img alt="PHP" width="32px" src="icons/php.svg" />
+  <img alt="Laravel" width="32px" src="icons/laravel.svg" />
+  <img alt="MySQL" width="32px" src="icons/mysql.svg" />
+  <img alt="Git" width="32px" src="icons/git.svg" />
+  <img alt="Docker" width="32px" src="icons/docker.svg" />
+  <img alt="Kubernetes" width="32px" src="icons/kubernetes.svg" />
+  <img alt="Visual Studio Code" width="32px" src="icons/vscode.svg" />
+  <img alt="Terminal" width="32px" src="icons/terminal.svg" />
 </p>
 
 ###### Recent GitHub Activity
