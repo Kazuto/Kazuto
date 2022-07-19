@@ -47,11 +47,11 @@
 <img align=right src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. ❗️ Opened issue [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 💪 Opened PR [#74](https://github.com/imTigger/laravel-job-status/pull/74) in [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status)
-4. ❗️ Closed issue [#7146](https://github.com/mekanism/Mekanism/issues/7146) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
-5. ❗️ Opened issue [#7146](https://github.com/mekanism/Mekanism/issues/7146) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+1. 🗣 Commented on [#155598](https://github.com/microsoft/vscode/issues/155598) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗️ Opened issue [#155598](https://github.com/microsoft/vscode/issues/155598) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. ❗️ Opened issue [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
+5. 💪 Opened PR [#74](https://github.com/imTigger/laravel-job-status/pull/74) in [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status)
 <!--END_SECTION:activity--> 
 
 <br>
