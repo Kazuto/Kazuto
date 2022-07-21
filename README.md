@@ -47,11 +47,11 @@
 <img align=right src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155598](https://github.com/microsoft/vscode/issues/155598) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#155598](https://github.com/microsoft/vscode/issues/155598) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
-4. ❗️ Opened issue [#23758](https://github.com/brave/brave-browser/issues/23758) in [brave/brave-browser](https://github.com/brave/brave-browser)
-5. 💪 Opened PR [#74](https://github.com/imTigger/laravel-job-status/pull/74) in [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status)
+1. 🎉 Merged PR [#5](https://github.com/Kazuto/demo/pull/5) in [Kazuto/demo](https://github.com/Kazuto/demo)
+2. 💪 Opened PR [#5](https://github.com/Kazuto/demo/pull/5) in [Kazuto/demo](https://github.com/Kazuto/demo)
+3. 🎉 Merged PR [#4](https://github.com/Kazuto/demo/pull/4) in [Kazuto/demo](https://github.com/Kazuto/demo)
+4. 💪 Opened PR [#4](https://github.com/Kazuto/demo/pull/4) in [Kazuto/demo](https://github.com/Kazuto/demo)
+5. 🎉 Merged PR [#3](https://github.com/Kazuto/demo/pull/3) in [Kazuto/demo](https://github.com/Kazuto/demo)
 <!--END_SECTION:activity--> 
 
 <br>
