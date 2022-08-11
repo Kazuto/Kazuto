@@ -47,11 +47,11 @@
 <img align=right src="https://github-readme-stats.kazuto.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2778](https://github.com/TablePlus/TablePlus/issues/2778) in [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus)
-2. 🎉 Merged PR [#6](https://github.com/Kazuto/demo/pull/6) in [Kazuto/demo](https://github.com/Kazuto/demo)
-3. 💪 Opened PR [#6](https://github.com/Kazuto/demo/pull/6) in [Kazuto/demo](https://github.com/Kazuto/demo)
-4. 🎉 Merged PR [#5](https://github.com/Kazuto/demo/pull/5) in [Kazuto/demo](https://github.com/Kazuto/demo)
-5. 💪 Opened PR [#5](https://github.com/Kazuto/demo/pull/5) in [Kazuto/demo](https://github.com/Kazuto/demo)
+1. ❗️ Opened issue [#1861](https://github.com/lwouis/alt-tab-macos/issues/1861) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+2. ❗️ Opened issue [#2778](https://github.com/TablePlus/TablePlus/issues/2778) in [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus)
+3. 🎉 Merged PR [#6](https://github.com/Kazuto/demo/pull/6) in [Kazuto/demo](https://github.com/Kazuto/demo)
+4. 💪 Opened PR [#6](https://github.com/Kazuto/demo/pull/6) in [Kazuto/demo](https://github.com/Kazuto/demo)
+5. 🎉 Merged PR [#5](https://github.com/Kazuto/demo/pull/5) in [Kazuto/demo](https://github.com/Kazuto/demo)
 <!--END_SECTION:activity--> 
 
 <br>
