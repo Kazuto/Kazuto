@@ -1,8 +1,4 @@
-<div id="user-content-toc" align=center>
-  <ul>
-    <summary><h1>Hi there, I'm Kai - aka <a href="https://kazuto.de">Kazuto</a> 👋</h3></summary>
-  </ul>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I%27m%20Kazu%20%F0%9F%91%8B%EF%B8%8F&animation=fadeIn&type=waving&color=gradient" />
 
 <div id="user-content-toc">
   <ul>
