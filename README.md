@@ -33,7 +33,7 @@ But it's not just about the technical stuff. I've got an eye for aesthetics and 
 ----
 
 ###### Recent GitHub Activity
-<img src="https://github-readme-stats-xi-sand.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=kazuto&bg_color=DEG,142534,0d1822&title=Kazuto">
+<img src="https://github-readme-stats-xi-sand.vercel.app/api?username=Kazuto&show_icons=true&hide_border=true&theme=catppuccin_mocha&bg_color=DEG,142534,0d1822&title=Kazuto">
 
 ----
 
